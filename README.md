@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xrandx
 - 👀 I’m interested in NLP.
-- 🌱 I’m currently learning diffusion model.
+- 🌱 I’m currently interested in LLM.
 
 
 <!---
